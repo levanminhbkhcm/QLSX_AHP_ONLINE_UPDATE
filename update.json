@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/levanminhbkhcm/QLSX_AHP_ONLINE_UPDATE/releases/latest/download/QUANLYSANXUAT_ONLINE.zip",
+  "releasePageUrl": "https://github.com/levanminhbkhcm/QLSX_AHP_ONLINE_UPDATE/releases/latest",
+  "assetName": "QUANLYSANXUAT_ONLINE.zip",
+  "installerType": "zip",
+  "releaseName": "QUAN LY SAN XUAT ONLINE 1.0.2",
+  "releaseNotes": "Cap nhat dang nhap Serial Number khi server khoa va bo qua MQTT trong che do nay."
+}
